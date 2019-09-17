@@ -23,6 +23,12 @@ Aurélien Géron, O'Reilly 2019
 
 [Amazon Link](https://www.amazon.com/dp/1492032646/ref=pd_lpo_sbs_dp_ss_1/137-2163159-1671509?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=lpo-top-stripe-1&pf_rd_r=XH8MSNG5JDEVYC9GMEFR&pf_rd_r=XH8MSNG5JDEVYC9GMEFR&pf_rd_t=201&pf_rd_p=7a8f5654-37f5-4688-a266-a74309cad748&pf_rd_p=7a8f5654-37f5-4688-a266-a74309cad748&pf_rd_i=1491962291)
 
+__Hands-On Neural Networks with TensorFlow 2.0__, by Paolo Galeone
+
+[amazon.co.uk Link](https://www.amazon.co.uk/gp/product/1789615550?pf_rd_p=330fbd82-d4fe-42e5-9c16-d4b886747c64&pf_rd_r=XV6D31954BFX22FWT5Q5)
+
+For information subscribe to Paolo's newsletter: [http://pgaleone.eu/subscribe](http://pgaleone.eu/subscribe)
+
 
 ## TensorFlow and Keras
 
