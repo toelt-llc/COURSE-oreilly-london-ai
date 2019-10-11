@@ -17,7 +17,7 @@ __CODE is being finalized and will be uploaded shortly__
 
 ## Time
 
-Monday, 14 Oct & Tuesday, 15 Oct,
+Monday, 14th Oct & Tuesday, 15th Oct,
 9:00-17:00
 
 ## Place
