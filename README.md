@@ -1,5 +1,7 @@
 # Training Material for "Convolutional Neural Networks for image recognition in Keras and Tensorflow"
 
+## O'reilly AI Conference London 2019
+
 
 ![](https://img.shields.io/badge/dependencies-TensorFlow20-blue)
 ![](https://img.shields.io/badge/dependencies-Jupyter-red)
