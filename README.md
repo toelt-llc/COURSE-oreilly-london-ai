@@ -11,7 +11,6 @@
 ![](https://img.shields.io/github/issues/michelucci/oreilly-london-ai.svg)
 [![license MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-__CODE is being finalized and will be uploaded shortly__
 
 ## Training PAGE on conference website
 
