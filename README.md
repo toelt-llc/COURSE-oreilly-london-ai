@@ -1,5 +1,14 @@
 # Training Material for "Convolutional Neural Networks for image recognition in Keras and Tensorflow"
 
+
+![](https://img.shields.io/badge/dependencies-TensorFlow20-blue)
+![](https://img.shields.io/badge/dependencies-Jupyter-red)
+![](https://img.shields.io/github/forks/michelucci/oreilly-london-ai?label=Fork)
+![](https://img.shields.io/github/last-commit/michelucci/oreilly-london-ai.svg)
+![](https://img.shields.io/github/stars/michelucci/oreilly-london-ai.svg)
+![](https://img.shields.io/github/issues/michelucci/oreilly-london-ai.svg)
+[![license MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 __CODE is being finalized and will be uploaded shortly__
 
 ## Training PAGE on conference website
