@@ -13,7 +13,7 @@ Monday, 14 Oct & Tuesday, 15 Oct,
 
 ## Place
 
-Park Suite
+Hilton Meeting Room 3/4
 
 ## Trainer and contact
 
