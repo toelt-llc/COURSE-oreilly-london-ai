@@ -16,6 +16,14 @@
 
 [https://conferences.oreilly.com/artificial-intelligence/ai-eu/public/schedule/detail/80056](https://conferences.oreilly.com/artificial-intelligence/ai-eu/public/schedule/detail/80056)
 
+## Slides
+
+All the slides can be found in Google Slides. Feel free to share them (but please attribution would be nice).
+
+Day 1 Slides: https://docs.google.com/presentation/d/1jMTjgEtjl5o6bBPmlxi5gVgXoOx2jdLr49SsPSyU4sk/edit?usp=sharing
+
+Day 2 Slides: Coming soon.
+
 ## Time
 
 Monday, 14th Oct & Tuesday, 15th Oct,
