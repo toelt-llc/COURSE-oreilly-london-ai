@@ -20,9 +20,9 @@
 
 All the slides can be found in Google Slides. Feel free to share them (but please attribution would be nice).
 
-Day 1 Slides: https://docs.google.com/presentation/d/1jMTjgEtjl5o6bBPmlxi5gVgXoOx2jdLr49SsPSyU4sk/edit?usp=sharing
+__Day 1 Slides__: https://docs.google.com/presentation/d/1jMTjgEtjl5o6bBPmlxi5gVgXoOx2jdLr49SsPSyU4sk/edit?usp=sharing
 
-Day 2 Slides: Coming soon.
+__Day 2 Slides__: https://docs.google.com/presentation/d/1nWEzUPHgouG8c0uY_CSLMhsqfP84QDFdmTeR_0EaeSI/edit?usp=sharing
 
 ## Time
 
